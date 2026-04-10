@@ -36,13 +36,30 @@
 
 ## ✨ Highlights
 
-| Focus | What I Do |
-|------|-----------|
-| VRChat | Avatar editing, in-avatar tools, commissions, and public avatar work |
-| Blender | Python add-ons and workflow helpers for 3D asset work |
-| Code-driven art | Bitmap generation and interpretation tools in C# |
-| JETV | Game project work plus a hosted web TP that showed what we could do in web |
-| Web / AI | Small experiments, templates, and utility repos |
+```mermaid
+mindmap
+  root((What I Make))
+    🎮 VRChat
+      Avatar editing
+      In-avatar tools
+      Commissions
+      Public avatar work
+    🐦 Blender
+      Python add-ons
+      Workflow helpers
+      Mesh / rig / texture tools
+    🖼️ Bitmap / image
+      BitMapMaker
+      Emil-sBitmapInterpreter
+      C# tooling
+    🕹️ JETV
+      Video game project
+      Hosted web TP
+    🌐 Web / AI
+      Templates
+      Experiments
+      Utility repos
+```
 
 ## 🌐 Socials
 [![Website](https://img.shields.io/badge/Emil's%20Work-4A90D9?logo=googlechrome&logoColor=white)](https://emils-work.freesite.online)
@@ -56,25 +73,58 @@
 
 # 🚀 Featured Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| [EmilsBlenderToolkit](https://github.com/emil1326/EmilsBlenderToolkit) | Modular Blender add-on toolkit for mesh editing, shapekeys, weights, and rigging | Python |
-| [Emil's VRC SoundBoard](https://github.com/emil1326/Emil-sVRCSoundBoard) | In-avatar VRChat soundboard that works without extra tools | GLSL / VRChat |
-| [Kita'vali V2.4](https://emils-work.freesite.online/the-kitavali-project) | Public VRChat avatar project with custom texture sets, heavy physics, and test channels | VRChat |
-| [Template-Menu-Web-Console](https://github.com/emil1326/Template-Menu-Web-Console) | Reusable .NET console starter with modular app/page structure and layered data access | C# / .NET |
-| [AITests](https://github.com/emil1326/AITests) | Sandbox for AI prompts, agents, skills, and simple web ideas | JavaScript |
-| [BitMapMaker](https://github.com/emil1326/BitMapMaker) | Small utility to make images with code | C# |
-| [Emil's Bitmap Interpreter](https://github.com/emil1326/Emil-sBitmapInterpreter) | C# bitmap interpreter and parsing tool | C# |
+```mermaid
+flowchart TB
+		Root((Featured Projects))
+		Root --> ThreeD["3D / VR"]
+		Root --> Tools["Tooling"]
+		Root --> DevAI["Web / AI"]
 
-# 📊 GitHub Stats:
-## 🏆 GitHub at a Glance
+		ThreeD --> Blender["EmilsBlenderToolkit"]
+		ThreeD --> SoundBoard["Emil's VRC SoundBoard"]
+		ThreeD --> Kitavali["Kita'vali V2.4"]
 
-| Metric | Value |
-|------|-------|
-| repositories | 30 |
-| Followers / Following | 3 / 8 |
-| Recent public activity | AITests, EmilsBlenderToolkit, and this profile README |
-| Main public languages | C#, Python, PHP, JavaScript, GLSL |
+		Tools --> Template["Template-Menu-Web-Console"]
+		Tools --> Bitmap["BitMapMaker"]
+		Tools --> Interpreter["Emil's Bitmap Interpreter"]
+
+		DevAI --> AITests["AITests"]
+
+		classDef root fill:#0f172a,stroke:#38bdf8,color:#ffffff,stroke-width:3px;
+		classDef group fill:#1e293b,stroke:#94a3b8,color:#e2e8f0,stroke-width:2px;
+		classDef vr fill:#0ea5e9,stroke:#0369a1,color:#ffffff,stroke-width:2px;
+		classDef art fill:#f97316,stroke:#c2410c,color:#ffffff,stroke-width:2px;
+		classDef web fill:#10b981,stroke:#047857,color:#ffffff,stroke-width:2px;
+		classDef ai fill:#8b5cf6,stroke:#6d28d9,color:#ffffff,stroke-width:2px;
+
+		class Root root;
+		class ThreeD,Tools,DevAI group;
+		class Blender,SoundBoard vr;
+		class Kitavali art;
+		class Template web;
+		class Bitmap,Interpreter art;
+		class AITests ai;
+```
+
+# 📊 GitHub at a Glance
+
+```mermaid
+mindmap
+	root((GitHub at a Glance))
+		18 public repositories
+		30 total repositories
+		3 followers / 8 following
+		Recent public activity
+			AITests
+			EmilsBlenderToolkit
+			This README
+		Main languages
+			C#
+			Python
+			PHP
+			JavaScript
+			GLSL
+```
 
 ### 🔝 Most Representative Repos
 
@@ -86,24 +136,29 @@
 
 ### 🧰 EmilsAssets WIP Modules
 
-| Module | Focus |
-|------|-------|
-| AvatarBlocker | WIP avatar helper |
-| AvatarCoordinator | WIP avatar coordination module |
-| IngamePresetSetter | WIP preset tooling |
-| AnimationPropertyChanger | WIP animator tooling |
-| ChainMaker | WIP chain utility |
-| MaterialActionner | WIP material helper |
-| MeshDifferenceTool | WIP mesh comparison utility |
-| PerfTools | WIP performance tooling |
-| PipelineManager | WIP workflow manager |
-| ScriptFunctions | WIP script helpers |
-| SuperSoundBoardV1 | WIP soundboard module |
-| SuperUIBuilderv3 | WIP UI builder |
-| TextMeshForVRC | WIP text mesh helpers |
-| TextureUtils | WIP texture helpers |
-| Themes | WIP theme assets |
-| TinyDocs | WIP documentation assets |
+```mermaid
+mindmap
+	root((EmilsAssets WIP Modules))
+		Avatar tools
+			AvatarBlocker
+			AvatarCoordinator
+			IngamePresetSetter
+			AnimationPropertyChanger
+			ChainMaker
+			SuperSoundBoardV1
+			SuperUIBuilderv3
+		Asset workflows
+			MaterialActionner
+			MeshDifferenceTool
+			PerfTools
+			PipelineManager
+			ScriptFunctions
+			TinyDocs
+		Visual helpers
+			TextMeshForVRC
+			TextureUtils
+			Themes
+```
 
 ---
 [![](https://visitcount.itsvg.in/api?id=emil1326&icon=0&color=0)](https://visitcount.itsvg.in)

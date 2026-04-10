@@ -4,7 +4,7 @@
 
 ### VRChat / Unity &nbsp;|&nbsp; Blender tooling &nbsp;|&nbsp; C# / Python / PHP &nbsp;|&nbsp; AI experiments
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+tools+for+VRChat%2C+Blender%2C+and+web+projects;Blender+toolkit+developer;Bitmap+and+image+tooling+in+C%23;AI+workflow+and+web+experimenter)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+tools+for+VRChat+and+Blender;Blender+toolkit+developer;Bitmap+and+image+tooling+in+C%23;AI+workflow+and+web+experimenter)](https://git.io/typing-svg)
 
 </div>
 
@@ -29,7 +29,8 @@
 - My site currently groups work into **personal work, school work, personal Unity work, commissions, the Kita'vali project, and avatar listings**.
 - In **EmilsAssets**, I started a set of WIP Unity and VRChat modules like **AvatarBlocker, AvatarCoordinator, IngamePresetSetter, AnimationPropertyChanger, ChainMaker, SuperUIBuilder, PerfTools, ScriptFunctions, TextMeshForVRC, and SuperSoundBoardV1**.
 - My Gumroad storefront focuses on **VRChat scripts, models, textures, and related freebies**.
-- I also keep **JETV**, **Template-Menu-Web-Console**, and **AITests** as web and AI experiment repos.
+- **JETV** is the organization where I helped make a video game, and the hosted **JETV website** was a school TP to show what we could do on the web.
+- I also keep **Template-Menu-Web-Console**, a reusable .NET console starter with modular app/page structure and layered data access, plus **AITests** as a web and AI experiment repo.
 - I work across **C#, Python, PHP, JavaScript, GLSL, Unity, Blender, Krita, and Substance Painter**.
 - 📫 Reach me at **emilien.devauchelle@outlook.com**.
 
@@ -40,6 +41,7 @@
 | VRChat | Avatar editing, in-avatar tools, commissions, and public avatar work |
 | Blender | Python add-ons and workflow helpers for 3D asset work |
 | Code-driven art | Bitmap generation and interpretation tools in C# |
+| JETV | Game project work plus a hosted web TP that showed what we could do in web |
 | Web / AI | Small experiments, templates, and utility repos |
 
 ## 🌐 Socials
@@ -59,7 +61,7 @@
 | [EmilsBlenderToolkit](https://github.com/emil1326/EmilsBlenderToolkit) | Modular Blender add-on toolkit for mesh editing, shapekeys, weights, and rigging | Python |
 | [Emil's VRC SoundBoard](https://github.com/emil1326/Emil-sVRCSoundBoard) | In-avatar VRChat soundboard that works without extra tools | GLSL / VRChat |
 | [Kita'vali V2.4](https://emils-work.freesite.online/the-kitavali-project) | Public VRChat avatar project with custom texture sets, heavy physics, and test channels | VRChat |
-| [Template-Menu-Web-Console](https://github.com/emil1326/Template-Menu-Web-Console) | .NET console template with modular app/page architecture and layered data access | C# / .NET |
+| [Template-Menu-Web-Console](https://github.com/emil1326/Template-Menu-Web-Console) | Reusable .NET console starter with modular app/page structure and layered data access | C# / .NET |
 | [AITests](https://github.com/emil1326/AITests) | Sandbox for AI prompts, agents, skills, and simple web ideas | JavaScript |
 | [BitMapMaker](https://github.com/emil1326/BitMapMaker) | Small utility to make images with code | C# |
 | [Emil's Bitmap Interpreter](https://github.com/emil1326/Emil-sBitmapInterpreter) | C# bitmap interpreter and parsing tool | C# |
@@ -70,7 +72,6 @@
 | Metric | Value |
 |------|-------|
 | repositories | 30 |
-| Public repositories | 18 |
 | Followers / Following | 3 / 8 |
 | Recent public activity | AITests, EmilsBlenderToolkit, and this profile README |
 | Main public languages | C#, Python, PHP, JavaScript, GLSL |
